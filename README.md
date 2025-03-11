@@ -1,16 +1,23 @@
-## Hi there 👋
+# Competitive Programming Profiles
 
-<!--
-**codingwithrahat/codingwithrahat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profiles in Different Competition Platforms
 
-Here are some ideas to get you started:
+| Platform        | Profile Link  |
+|----------------|--------------|
+| **Codeforces**    | [codingwithrahat](https://codeforces.com/profile/codingwithrahat) |
+| **CodeChef**      | [codewithrahat](https://www.codechef.com/users/codewithrahat) |
+| **LeetCode**      | [codingwithrahat](https://leetcode.com/codingwithrahat) |
+| **LightOJ**       | [codingwithrahat](https://lightoj.com/user/codingwithrahat) |
+| **Toph**         | [codingwithrahat](https://toph.co/u/codingwithrahat) |
+| **AtCoder**       | [codingwithrahat](https://atcoder.jp/users/codingwithrahat) |
+| **HackerEarth**   | [codingwithrahat](https://www.hackerearth.com/@codingwithrahat/) |
+| **GeeksforGeeks** | [codingwithrahat](https://auth.geeksforgeeks.org/user/codingwithrahat) |
+| **HackerRank**    | [codingwithrahat](https://www.hackerrank.com/codingwithrahat) |
+| **Beecrowd**      | [codingwithrahat](https://judge.beecrowd.com/en/profile/935802) |
+| **Virtual Judge** | [codingwithrahat](https://vjudge.net/user/codingwithrahat) |
+| **SPOJ**         | [rahathossan](https://www.spoj.com/myaccount/) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Stay Connected
+Feel free to check out my profiles and follow my progress in competitive programming! 
