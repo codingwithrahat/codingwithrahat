@@ -1,9 +1,5 @@
 # Welcome to My GitHub Profile
 
-## Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=codingwithrahat)
-
 ## Competitive Programming Enthusiast
 
 I’m **Mohammad Rahat Hossan**, a passionate competitive programmer and software enthusiast. This is where I share my journey across various platforms and showcase the projects I’ve been working on.
@@ -29,26 +25,17 @@ I’m **Mohammad Rahat Hossan**, a passionate competitive programmer and softwar
 
 ### Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithrahat&layout=compact)
+![C Language](https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=c&logoColor=white)  
+*C is the first programming language I learned and is the foundation of my understanding of programming. I gained a deep understanding of computer architecture and memory management through C.*
 
----
+![C++ Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+*C++ is my go-to language for competitive programming (CP). I utilize C++ for solving data structures and algorithms (DSA) problems efficiently due to its rich Standard Template Library (STL) and performance optimization.*
 
-## Programming Languages I Use
-
-- **C**  
-  ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
-  C was my first programming language, and it laid the foundation for my journey into software development. I started learning programming through C and found it immensely useful in grasping core concepts such as memory management and low-level operations.
-
-- **C++**  
-  ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)  
-  I use **C++** extensively for competitive programming, where efficiency and execution speed are paramount. Through C++, I learned and implemented various data structures and algorithms (DSA), which are fundamental in solving complex problems in competitions.
-
-- **Java**  
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
-  **Java** has been a key language in my development as a software engineer. It helped me learn **Object-Oriented Programming (OOP)** principles and gave me the tools to build scalable applications. The language’s strong ecosystem and community support make it ideal for building robust systems and enterprise-level applications.
+![Java Language](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+*Java helped me dive into Object-Oriented Programming (OOP). It taught me the principles of encapsulation, inheritance, and polymorphism, which are crucial for building scalable and maintainable software systems.*
 
 ---
 
 ### Stay Connected
 
-Feel free to check out my profiles and follow my progress in competitive programming.
+Feel free to explore my competitive programming profiles on the platforms listed above. I welcome any feedback or collaboration opportunities in the programming community.
