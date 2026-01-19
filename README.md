@@ -1,16 +1,17 @@
-# Welcome to My GitHub Profile
+I’m **Mohammad Rahat Hossan**, a passionate competitive programmer. This is where I share my journey across various platforms and showcase the projects I’ve been working on.
 
-## Competitive Programming Enthusiast
+## ICPC Profile
 
-I’m **Mohammad Rahat Hossan**, a passionate competitive programmer and software enthusiast. This is where I share my journey across various platforms and showcase the projects I’ve been working on.
+- **ICPCID :** [Mohammad Rahat Hossan](https://icpc.global/ICPCID/OXJU0JKQKSGX)
 
 ## Profiles in Different Competition Platforms
 
 | Platform        | Profile Link  |
 |----------------|--------------|
 | **Codeforces**    | [codingwithrahat](https://codeforces.com/profile/codingwithrahat) |
-| **CodeChef**      | [codewithrahat](https://www.codechef.com/users/codewithrahat) |
 | **LeetCode**      | [codingwithrahat](https://leetcode.com/codingwithrahat) |
+| **CodeChef**      | [codewithrahat](https://www.codechef.com/users/codewithrahat) |
+| **VJudge**       | [codingwithrahat](https://vjudge.net/user/codingwithrahat) |
 | **LightOJ**       | [codingwithrahat](https://lightoj.com/user/codingwithrahat) |
 | **Toph**          | [codingwithrahat](https://toph.co/u/codingwithrahat) |
 | **AtCoder**       | [codingwithrahat](https://atcoder.jp/users/codingwithrahat) |
@@ -18,20 +19,13 @@ I’m **Mohammad Rahat Hossan**, a passionate competitive programmer and softwar
 | **GeeksforGeeks** | [codingwithrahat](https://auth.geeksforgeeks.org/user/codingwithrahat) |
 | **HackerRank**    | [codingwithrahat](https://www.hackerrank.com/codingwithrahat) |
 | **Beecrowd**      | [codingwithrahat](https://judge.beecrowd.com/en/profile/935802) |
-| **Virtual Judge** | [codingwithrahat](https://vjudge.net/user/codingwithrahat) |
-| **SPOJ**          | [rahathossan](https://www.spoj.com/myaccount/) |
+| **SPOJ**          | [rahathossan](https://www.spoj.com/users/rahathossan/) |
 
 ---
 
 ### Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithrahat&layout=compact&hide=html,css&theme=radical)
-
----
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codingwithrahat&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=codingwithrahat&langs_count=10&cache_seconds=3600)
 
 ---
 
