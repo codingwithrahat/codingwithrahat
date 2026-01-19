@@ -23,8 +23,6 @@ I’m **Mohammad Rahat Hossan**, a passionate competitive programmer. This is wh
 
 ---
 
-### Most Used Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=codingwithrahat&langs_count=10&cache_seconds=3600)
 
 ---
